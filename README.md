@@ -27,10 +27,10 @@
 
 ## To run this app on your App :
 
-cd backend
-npm i
-npm start
-and then open another terminal and tap :
-cd frontend
-npm i
+- cd backend /
+- npm i /
+- npm start /
+- and then open another terminal and tap :
+- cd frontend /
+- npm i /
 npm run dev
